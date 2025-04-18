@@ -1,0 +1,4 @@
+[18-Sep-2023 07:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/intellidt2014/public_html/clf/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/clf/wp-content/plugins/hello-dolly/hello.php on line 69
